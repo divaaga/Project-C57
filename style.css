@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    text-align: center;
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: #FFFFFF;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.8;
+    background: linear-gradient(#03f0fc 0%, #f954ff 100%);
+    display: table;
+}
+
+p{
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 18px;
+    line-height: 1.3;
+    color:#fab8b4;
+}
+
+.line{
+    height: 5px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+h1{
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+#hobby{
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: cursive;
+}
+
+img{
+    width: 300px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    margin-top: 50px;
+    height: 300px;
+}
